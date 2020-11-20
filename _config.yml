@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Homepage"
+title                    : "Md Mazharul Islam"
 title_separator          : "-"
-name                     : &name "Wasi Uddin Ahmad"
+name                     : &name "Md Mazharul Islam Rakeb"
 description              : &description "personal description"
-url                      : "https://wasiahmad.github.io"  #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://rakeb.github.io/"  #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "wasiahmad/wasiahmad.github.io"
+repository               : "rakeb/rakeb.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "ahmadwasi"
+  username               : "rakeb_void"
 facebook:
   username               :
   app_id                 :
@@ -80,43 +80,43 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wasi Uddin Ahmad"
-  avatar           : "wasiahmad.png"
-  bio              : "Ph.D. student at University of California, Los Angeles (UCLA)"
+  name             : "Md Mazharul Islam"
+  avatar           : ""
+  bio              : "Ph.D. student at University of North Carolina at Charlotte, NC, USA"
   employer         : 
-  location         : "Los Angeles, CA, US"
+  location         : "North Carolina, CA, US"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YCHJZOMAAAAJ&hl=en"
-  email            : "wasiahmad@ucla.edu"
-  researchgate     : "https://www.researchgate.net/profile/Wasi_Ahmad3"
+  googlescholar    : "https://scholar.google.com/citations?user=73hYxBgAAAAJ&hl=en"
+  email            : "mislam7@uncc.edu"
+  researchgate     : "https://www.researchgate.net/profile/Md_Mazharul_Islam5"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "wasiahmad07"
+  facebook         :
   foursquare       :
-  github           : "wasiahmad"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "ahmadwasi"
+  linkedin         : "rakebmazharul"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : 5352399/wasi-ahmad
   steam            :
   tumblr           :
-  twitter          : "ahmadwasi"
+  twitter          : "rakeb_void"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  dblp             : "https://dblp.org/pers/hd/a/Ahmad:Wasi_Uddin"
+  dblp             :
   wikipedia        :
-  semanticscholar  : "https://www.semanticscholar.org/author/Wasi-Uddin-Ahmad/38123220"
+  semanticscholar  : 
 
 
 # Reading Files
