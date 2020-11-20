@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a Ph.D. candidate in <a href="http://www.cs.ucla.edu/">CS@UCLA</a>.
-  I work under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.
-<!--   Previously I was a Ph.D. student at the <a href="http://www.cs.virginia.edu/">CS@UVA</a> from August 2015 to August 2017. In fall 2017, I moved to UCLA with my advisor <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>.  -->
-  My research interests span the areas of natural language processing (NLP) and machine learning.
-  My research efforts strike to develop computational algorithms that (1) reduce the amount of labeled data required to train NLP models from scratch; and (2) adapt to new domains and languages with fewer labeled examples. 
+I am a Ph.D. candidate in <a href="https://cci.uncc.edu/departments/software-and-information-systems-sis">SIS@UNCC</a>.
+<!--   I work under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. -->
+Research Assistant in <a href="http://www.cyberdna.uncc.edu/">CyberDNA</a>, UNC Charlotte. Working on building autonomous resilient system using optimal cyber deception planning to detect and mitigate advanced persistent threats (malware, spear-phisher, DDoS etc.).
+Former Software Engineer and team lead of Secure Card Lab, in \href{https://konasl.com/}{Kona Software Lab} with many years of industry experience in core J2EE, NFC and Chip smart card technologies as well as security and payment based end-to-end solutions. %Experienced in designing and developing On-Card(secure element/smart card) and Off-Card(terminal/POS) as a solution architect in agile way. Capable of delivering products in some hard deadlines while maintaining the quality, many of them Certified by FIPS and KISA.
+<!--   My research interests span the areas of natural language processing (NLP) and machine learning. -->
+<!--   My research efforts strike to develop computational algorithms that (1) reduce the amount of labeled data required to train NLP models from scratch; and (2) adapt to new domains and languages with fewer labeled examples.  -->
 <!-- Learning universal language representations utilizing data from heterogeneous sources, designing new learning objective to bridge the gap between different learning signals, and developing flexible model architectures to enable cross-domain and cross-language transfer is the fundamental objective of my research. -->
-My doctoral thesis is on transfer learning for low-resource natural language processing (NLP). During my PhD, I got the opportunity to work as a research intern at Facebook AI (Summer 2020), Yahoo Research (Summer 2019), Microsoft Research (Summer 2018), and @WalmartLabs (Summer 2016).
+<!--   My doctoral thesis is on transfer learning for low-resource natural language processing (NLP). During my PhD, I got the opportunity to work as a research intern at Facebook AI (Summer 2020), Yahoo Research (Summer 2019), Microsoft Research (Summer 2018), and @WalmartLabs (Summer 2016). -->
 </p>
 
 <p align="justify">
@@ -27,6 +28,7 @@ I have received my Bachelor's in Computer Science and Engineering from the <a hr
 </p>
 
 
+<!---
 News and Announcements
 ======
 1. <span style="color:blue">[08.2020] </span>  Checkout our <a href="https://arxiv.org/abs/2008.01739">work</a> on keyphrase generation.
