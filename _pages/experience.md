@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of North Carolina at Charlotte, NC, USA</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://cci.uncc.edu/departments/software-and-information-systems-sis" target="_blank"><font color="brown" size="5">University of North Carolina at Charlotte, NC, USA</font></a></b></span><br/>
     Research Assistant [August, 2016 - Present]<br/>
     Advisor: <a href="https://engineering.cmu.edu/directory/bios/al-shaer-ehab.html" target="_blank">Dr. Ehab Al-Shaer</a>, Lab: <a href="https://www.cylab.cmu.edu/index.html" target="_blank">CyLab</a> <br/>
 <br/>
