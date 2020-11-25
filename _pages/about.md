@@ -18,7 +18,7 @@ Former Software Engineer and team lead of Security Lab, in <a href="https://kona
 <p align="justify">
 I have received my B.Sc. in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013. I was a member of <a href="https://cse.buet.ac.bd/research/group/gd/index.php?pageid=People.htm">Graph Drawing and Information Visualization Lab (CSE, BUET)</a> founded by <a href="http://saidurrahman.buet.ac.bd/">Dr. Saidur Rahman</a>, where I conducted studies on several graph theoretic problems.
 Answering various programming and algorithm related questions in <a href="http://stackoverflow.com/users/1743849/rakeb-mazharul">stackoverflow</a> is one of my favorite pastimes (5400+ reputation). 
-I am actively contribute in \href{https://github.com/rakeb}{GitHub}.
+I am actively contribute in <a href="https://github.com/rakeb">GitHub</a>.
 </p>
 
 <p align="justify">
