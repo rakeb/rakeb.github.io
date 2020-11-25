@@ -9,18 +9,16 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a Ph.D. candidate in <a href="https://cci.uncc.edu/departments/software-and-information-systems-sis">SIS@UNCC</a>.
-<!--   I work under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. -->
-Research Assistant in <a href="http://www.cyberdna.uncc.edu/">CyberDNA</a>, UNC Charlotte. Working on building autonomous resilient system using optimal cyber deception planning to detect and mitigate advanced persistent threats (malware, spear-phisher, DDoS etc.).
-Former Software Engineer and team lead of Secure Card Lab, in \href{https://konasl.com/}{Kona Software Lab} with many years of industry experience in core J2EE, NFC and Chip smart card technologies as well as security and payment based end-to-end solutions. %Experienced in designing and developing On-Card(secure element/smart card) and Off-Card(terminal/POS) as a solution architect in agile way. Capable of delivering products in some hard deadlines while maintaining the quality, many of them Certified by FIPS and KISA.
-<!--   My research interests span the areas of natural language processing (NLP) and machine learning. -->
-<!--   My research efforts strike to develop computational algorithms that (1) reduce the amount of labeled data required to train NLP models from scratch; and (2) adapt to new domains and languages with fewer labeled examples.  -->
-<!-- Learning universal language representations utilizing data from heterogeneous sources, designing new learning objective to bridge the gap between different learning signals, and developing flexible model architectures to enable cross-domain and cross-language transfer is the fundamental objective of my research. -->
-<!--   My doctoral thesis is on transfer learning for low-resource natural language processing (NLP). During my PhD, I got the opportunity to work as a research intern at Facebook AI (Summer 2020), Yahoo Research (Summer 2019), Microsoft Research (Summer 2018), and @WalmartLabs (Summer 2016). -->
+I am a Ph.D. student in <a href="https://cci.uncc.edu/departments/software-and-information-systems-sis">SIS@UNCC</a>. My advisor is <a href="https://engineering.cmu.edu/directory/bios/al-shaer-ehab.html">Dr. Ehab Al-Shaer</a> from CyLab@CMU.
+Currently, I am working as a research assistant (RA) in CyberDNA, UNC Charlotte. My research goal is to build autonomous resilient systems using cyber deception and moving target defense against advanced persistent threats (e.g., malware, spear-phisher, DDoS, and more). For optimal planning and orchestration, I use optimization (SMT), sequential decision making (MDP/POMDP), reinforcement learning, etc. I have hands-on experience on MITRE ATT&CK framework, OpenDaylight SDN controllers, OpenFlow protocols, etc. My projects are mainly funded by ONR, ARO and DARPA.
+  
+Former Software Engineer and team lead of Security Lab, in <a href="https://konasl.com/">Kona Software Lab</a> with many years of industry experience in core J2EE, NFC, Javacard, and chip-based smart card technologies. My responsibility was designing and developing payment applications such as AMEX, JCB, and Discover payment systems for smart cards. I worked on FIPS certification for KONA N41M0 Smart Card complying with Security Requirements for Cryptographic Modules, FIPS 140-2 (certificate no. 2476 and 2478).
 </p>
 
 <p align="justify">
-I have received my Bachelor's in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013 and Master of Computer Science from the <a href="http://www.cs.virginia.edu/">CS@UVA</a>, in August 2017. In my free time, I like to solve problems to improve my programming skill. I have given <b><font color="blue">500+</font></b> answers to programming related questions and earned <b><font color="blue">25,000+</font></b> reputation 😎 on StackOverflow.
+I have received my B.Sc. in Computer Science and Engineering from the <a href="http://cse.buet.ac.bd/">CSE@BUET</a>, in February 2013. I was a member of <a href="https://cse.buet.ac.bd/research/group/gd/index.php?pageid=People.htm">Graph Drawing and Information Visualization Lab (CSE, BUET)</a> founded by <a href="http://saidurrahman.buet.ac.bd/">Dr. Saidur Rahman</a>, where I conducted studies on several graph theoretic problems.
+Answering various programming and algorithm related questions in <a href="http://stackoverflow.com/users/1743849/rakeb-mazharul">stackoverflow</a> is one of my favorite pastimes (5400+ reputation). 
+I am actively contribute in \href{https://github.com/rakeb}{GitHub}.
 </p>
 
 <p align="justify">
