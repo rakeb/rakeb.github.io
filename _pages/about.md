@@ -11,7 +11,9 @@ redirect_from:
 <p align="justify">
 I am a Ph.D. student in <a href="https://cci.uncc.edu/departments/software-and-information-systems-sis">SIS@UNCC</a>. My advisor is <a href="https://engineering.cmu.edu/directory/bios/al-shaer-ehab.html">Dr. Ehab Al-Shaer</a> from CyLab@CMU.
 Currently, I am working as a research assistant (RA) in CyberDNA, UNC Charlotte. My research goal is to build autonomous resilient systems using cyber deception and moving target defense against advanced persistent threats (e.g., malware, spear-phisher, DDoS, and more). For optimal planning and orchestration, I use optimization (SMT), sequential decision making (MDP/POMDP), reinforcement learning, etc. I have hands-on experience on MITRE ATT&CK framework, OpenDaylight SDN controllers, OpenFlow protocols, etc. My projects are mainly funded by ONR, ARO and DARPA.
-  
+</p>
+
+<p align="justify">
 Former Software Engineer and team lead of Security Lab, in <a href="https://konasl.com/">Kona Software Lab</a> with many years of industry experience in core J2EE, NFC, Javacard, and chip-based smart card technologies. My responsibility was designing and developing payment applications such as AMEX, JCB, and Discover payment systems for smart cards. I worked on FIPS certification for KONA N41M0 Smart Card complying with Security Requirements for Cryptographic Modules, FIPS 140-2 (certificate no. 2476 and 2478).
 </p>
 
