@@ -1,7 +1,7 @@
 ---
 title: "Active Defense Against Social Engineering: The Case for Human Language Technology"
 collection: publications
-Authors: 'Ahmed, A. Reyan; <b>Islam, Mazharul</b>; Rahman, M. Saidur'
+Authors: 'Dalton, A.; <b>Islam, Mazharul</b>; et al.'
 date: 2020/5
 venue: 'Proceedings for the First International Workshop on Social Threats in Online Conversations: Understanding and Management'
 paperurl: 'https://www.aclweb.org/anthology/2020.stoc-1.1.pdf'
