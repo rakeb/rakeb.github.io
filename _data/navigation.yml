@@ -3,18 +3,14 @@ main:
   - title: "Publications"
       url: /publications/
 
-  - title: "Research"
-    url: /year-archive/
-
   - title: "Professional Experience"
     url: /experience/
     
   - title: "Education"
     url: /cv/
-    
 
-    
-
+  - title: "Research Projects"
+    url: /year-archive/
 
 #   - title: "Talks"
 #     url: /talks/
