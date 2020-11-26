@@ -1,16 +1,20 @@
 # main links links
 main:
+  - title: "Publications"
+      url: /publications/
+
+  - title: "Research"
+    url: /year-archive/
+
   - title: "Professional Experience"
     url: /experience/
     
   - title: "Education"
     url: /cv/
     
-  - title: "Research"
-    url: /year-archive/
+
     
-  - title: "Publications"
-    url: /publications/
+
 
 #   - title: "Talks"
 #     url: /talks/
