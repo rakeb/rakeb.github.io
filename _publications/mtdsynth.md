@@ -3,14 +3,14 @@ title: "Specification-driven Moving Target Defense Synthesis"
 collection: publications
 Authors: '<b>Islam, Md Mazharul</b>; Duan, Qi; Al-Shaer, Ehab.'
 date: 2019/11/11
-venue: 'ACM CCS'
+venue: 'Proceedings of the 6th ACM Workshop on Moving Target Defense'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3338468.3356830'
-presentationurl: ''
+presentationurl: 'https://rakeb.github.io/files/publications/mtdsynth/mtdsynth_presentation.pdf'
 codeurl: 'https://github.com/rakeb/activesdn'
 excerpt: ''
 ---
 ---
-<a href='https://www.researchgate.net/profile/Md_Mazharul_Islam5/publication/337134688_Specification-driven_Moving_Target_Defense_Synthesis/links/5f349f35458515b7291be6e8/Specification-driven-Moving-Target-Defense-Synthesis.pdf' target="_blank">[Download Paper]</a>
+<a href='https://rakeb.github.io/files/publications/mtdsynth/mtdsynth.pdf' target="_blank">[Download Paper]</a>
 
 <!--
 <div style='display: flex; justify-content: center;'><img src='https://wasiahmad.github.io/files/publications/2018/LREC-1.png' 
