@@ -1,5 +1,5 @@
 ---
-title: "Conceal: A strategy composition for resilient cyber deception-framework, metrics and deployment"
+title: "On Acyclic Colorings of Graphs"
 collection: publications
 Authors: 'Ahmed, A. Reyan; <b>Islam, Mazharul</b>; Rahman, M. Saidur'
 date: 2012/12/22
