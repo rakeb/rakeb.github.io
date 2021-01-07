@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a Ph.D. student in <a href="https://cci.uncc.edu/departments/software-and-information-systems-sis">SIS@UNCC</a>. My advisor is <a href="https://engineering.cmu.edu/directory/bios/al-shaer-ehab.html">Dr. Ehab Al-Shaer</a> from CyLab@CMU.
+I am a Ph.D. student in <a href="https://cci.uncc.edu/departments/software-and-information-systems-sis">SIS@UNCC</a>. My advisor is <a href="http://www.andrew.cmu.edu/user/eshaer/">Dr. Ehab Al-Shaer</a> from CyLab@CMU.
 Currently, I am working as a research assistant (RA) in CyberDNA, UNC Charlotte. My research goal is to build autonomous resilient systems using cyber deception and moving target defense against advanced persistent threats (e.g., malware, spear-phisher, DDoS, and more). For optimal planning and orchestration, I use optimization (SMT), sequential decision making (MDP/POMDP), reinforcement learning, etc. I have hands-on experience on MITRE ATT&CK framework, OpenDaylight SDN controllers, OpenFlow protocols, etc. My projects are mainly funded by ONR, ARO and DARPA.
 </p>
 
