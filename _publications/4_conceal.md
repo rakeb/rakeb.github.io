@@ -4,7 +4,7 @@ collection: publications
 Authors: 'Duan, Qi; Al-Shaer, Ehab; <b>Islam, Mazharul</b>; Jafarian, Haadi'
 date: 2018/5/30
 venue: '2018 IEEE Conference on Communications and Network Security (CNS)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/8433196'
+paperurl: 'https://rakeb.github.io/files/publications/conceal/conceal.pdf'
 presentationurl: ''
 codeurl: ''
 excerpt: ''
