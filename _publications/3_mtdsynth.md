@@ -4,7 +4,7 @@ collection: publications
 Authors: '<b>Islam, Md Mazharul</b>; Duan, Qi; Al-Shaer, Ehab.'
 date: 2019/11/11
 venue: 'Proceedings of the 6th ACM Workshop on Moving Target Defense'
-paperurl: 'https://dl.acm.org/doi/abs/10.1145/3338468.3356830'
+paperurl: 'https://rakeb.github.io/files/publications/mtdsynth/mtdsynth.pdf'
 presentationurl: 'https://rakeb.github.io/files/publications/mtdsynth/mtdsynth_presentation.pdf'
 codeurl: 'https://github.com/rakeb/activesdn'
 excerpt: ''
