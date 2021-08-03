@@ -17,6 +17,13 @@ For optimal defense action planning and system orchestration, I use discrete opt
 I have hands-on experience building software for diverse fields using the MITRE ATT&CK framework, software-defined networking (SDN), cryptography, email protocols, payment applications, and more. 
 </p>
 
+<h2>ActiveSDN</h2> <a href="https://github.com/rakeb/activesdn/commits/clipstranslation">[code-activesdn]</a> <a href="https://github.com/rakeb/activesdn_middleware">[code-activesdn-middleware]</a> <a href="https://rakeb.github.io/files/publications/deception_secdev/Active_Deception_Framework_SecDev.pdf">[paper-1]</a> <a href="https://rakeb.github.io/files/publications/mtdsynth/mtdsynth.pdf">[paper-2]</a>
+
+<p align="justify">
+An open programming environment that enables developing and prototyping advanced active cyber defense mechanisms (such as IP or route mutation, honey network creation) rapidly and safely on Software Defined Networking (SDN). ActiveSDN also provides a language for security policy specification.</br>
+<b>Tools/languages:</b> OpenDaylight, OpenFlow, SDN, Java, Python, Git, VMware.
+</p>
+
 <!--
 <p align="justify">
 Former Software Engineer and team lead of Security Lab, in <a href="https://konasl.com/">Kona Software Lab</a> with many years of industry experience in core J2EE, NFC, Javacard, and chip-based smart card technologies. My responsibility was designing and developing payment applications such as AMEX, JCB, and Discover payment systems for smart cards. I worked on FIPS certification for KONA N41M0 Smart Card complying with Security Requirements for Cryptographic Modules, FIPS 140-2 (certificate no. 2476 and 2478).
