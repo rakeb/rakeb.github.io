@@ -4,7 +4,7 @@ collection: publications
 Authors: '<b>Islam, Md Mazharul</b>; Al-Shaer, Ehab; Dutta, Ashutosh.'
 date: 2019/4/1
 venue: 'Proceedings of the 6th Annual Symposium on Hot Topics in the Science of Security'
-paperurl: 'https://dl.acm.org/doi/abs/10.1145/3314058.3317724'
+paperurl: 'https://rakeb.github.io/files/publications/clips/Hotsos_poster.pdf'
 presentationurl: ''
 codeurl: ''
 excerpt: ''
