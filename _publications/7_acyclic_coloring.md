@@ -4,7 +4,7 @@ collection: publications
 Authors: 'Ahmed, A. Reyan; <b>Islam, Mazharul</b>; Rahman, M. Saidur'
 date: 2012/12/22
 venue: '2012 15th International Conference on Computer and Information Technology (ICCIT)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/6509751'
+paperurl: 'https://rakeb.github.io/files/publications/acyclic/acyclic_coloring.pdf'
 presentationurl: ''
 codeurl: ''
 excerpt: ''
