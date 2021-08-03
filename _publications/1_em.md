@@ -10,7 +10,7 @@ codeurl: 'https://github.com/rakeb/email-address-mutation'
 excerpt: ''
 ---
 ---
-<a href='https://arxiv.org/pdf/2010.02557.pdf' target="_blank">[Download Paper]</a>
+<a href='https://rakeb.github.io/files/publications/em/Email_Mutation_Paper.pdf' target="_blank">[Download Paper]</a>
 
 <!--
 <div style='display: flex; justify-content: center;'>
