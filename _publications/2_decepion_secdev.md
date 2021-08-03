@@ -4,7 +4,7 @@ collection: publications
 Authors: '<b>Islam, Md Mazharul</b>; Al-Shaer, Ehab.'
 date: 2020/9/28
 venue: '2020 IEEE Secure Development (SecDev)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9230100'
+paperurl: 'https://github.com/rakeb/rakeb.github.io/blob/master/files/publications/deception_secdev/Active_Deception_Framework_SecDev.pdf'
 presentationurl: 'https://rakeb.github.io/files/publications/deception_secdev/s3-N-Islam.pdf'
 codeurl: 'https://github.com/rakeb/activesdn'
 excerpt: ''
